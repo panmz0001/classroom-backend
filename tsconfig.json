@@ -28,7 +28,7 @@
     "skipLibCheck": true,
 
     /* Environment types */
-    "types": ["node"]
+     "types": ["node"]
   },
-  "include": ["src"]
+  "include": ["src", "drizzle.config.ts"]
 }
